@@ -18,12 +18,17 @@ library = [
 
 # WRITE CODE BELOW HERE
 
-
+def all_pages(library)
+  total_pages = 0
+  library[0][:pages]
+  puts "hi"
+end
+binding.pry
 
 
 # WRITE CODE ABOVE HERE
 
 
-binding.pry
+
 
 puts "Books!"
